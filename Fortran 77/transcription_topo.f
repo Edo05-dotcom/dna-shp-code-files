@@ -1,4 +1,4 @@
-program supercoildiffusion
+      program supercoildiffusion
       implicit none
       integer*4 nstep,nDNA,npol,nmax,nequil,nequilrun
       parameter(nstep=3000000,nequilrun=1000000,nDNA=1000,npol=10)
