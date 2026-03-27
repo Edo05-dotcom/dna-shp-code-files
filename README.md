@@ -23,7 +23,6 @@ Depending on the folder / file names, this repository includes:
 
 - **Fortran code** for the travelling-polymerase simulation
 - **Python scripts** for post-processing, fitting, and plotting
-- 
 ## How to use
 
 A typical workflow is:
